@@ -1,0 +1,96 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="#ffffff" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="18dp"
+            android:layout_gravity="center"
+            android:text="Add User"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:background="@drawable/avator"
+            android:layout_gravity="center"
+            android:layout_marginTop="64dp" />
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:orientation="horizontal"
+            android:layout_gravity="center|top"
+            android:layout_marginTop="64dp">
+
+            <TextView
+                android:layout_width="48dp"
+                android:layout_height="wrap_content"
+                android:text="id:"
+                android:gravity="right|top"
+                android:textStyle="bold"/>
+
+            <EditText
+                android:layout_width="230dp"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="80dp"
+            android:orientation="horizontal"
+            android:layout_gravity="center|top">
+
+            <TextView
+                android:layout_width="48dp"
+                android:layout_height="wrap_content"
+                android:text="name:"
+                android:gravity="right|top"
+                android:layout_marginTop="20dp"
+                android:textStyle="bold"/>
+
+            <EditText
+                android:layout_width="230dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:inputType="number" />
+
+        </LinearLayout>
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginTop="30dp"
+    android:layout_gravity="bottom|center">
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="35dp"
+        android:background="#73DD77"
+        android:layout_marginTop="130dp"
+        android:text="CONFIRM"
+        android:layout_marginRight="48dp"/>
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="35dp"
+        android:background="#E4E4E4"
+        android:layout_marginTop="130dp"
+        android:text="CANCEL"
+        android:layout_marginLeft="48dp"/>
+
+</LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

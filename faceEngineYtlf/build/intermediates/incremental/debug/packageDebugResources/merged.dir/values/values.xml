@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="face_frame_orientation">
+        <item>0</item>
+        <item>90</item>
+        <item>180</item>
+        <item>270</item>
+    </string-array>
+    <string-array name="recognition_orientation">
+        <item>0</item>
+        <item>90</item>
+        <item>180</item>
+        <item>270</item>
+    </string-array>
+    <string-array name="screen_rotate">
+        <item>auto</item>
+        <item>0</item>
+        <item>90</item>
+        <item>180</item>
+        <item>270</item>
+    </string-array>
+    <color name="black">#000000</color>
+    <color name="blue">#0000ff</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimary2">@color/black</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryDark2">@color/black</color>
+    <color name="green">#00ff00</color>
+    <color name="red">#ff0000</color>
+    <color name="safe_mode_text">#80ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <string name="app_face_recognition">Face Recognition</string>
+    <string name="app_name">FaceEngine</string>
+    <string name="error">operation failed</string>
+    <string name="ytlf_dictionaries1">It requires front and rear cameras</string>
+    <string name="ytlf_dictionaries10">Face unregistered</string>
+    <string name="ytlf_dictionaries11">Preview Settings</string>
+    <string name="ytlf_dictionaries12">Face unregistered</string>
+    <string name="ytlf_dictionaries13">Face Registration</string>
+    <string name="ytlf_dictionaries14">Choose Picture</string>
+    <string name="ytlf_dictionaries15">Please type in your name</string>
+    <string name="ytlf_dictionaries16">registration success</string>
+    <string name="ytlf_dictionaries17">registration failed</string>
+    <string name="ytlf_dictionaries18">no data</string>
+    <string name="ytlf_dictionaries19">Living</string>
+    <string name="ytlf_dictionaries2">SDK service failed to start</string>
+    <string name="ytlf_dictionaries20">Nonliving</string>
+    <string name="ytlf_dictionaries21">Face Quality:</string>
+    <string name="ytlf_dictionaries22">Screensavers</string>
+    <string name="ytlf_dictionaries23">Black and white</string>
+    <string name="ytlf_dictionaries24">Face angle: \n x-axis as the center, the vertical pitch angle of the face:</string>
+    <string name="ytlf_dictionaries25">\n y-axis as the center, left and right rotation angle of the face:</string>
+    <string name="ytlf_dictionaries26">\n at center point, x-y plane rotation angle:</string>
+    <string name="ytlf_dictionaries27">\n Face Quality:</string>
+    <string name="ytlf_dictionaries28">\n vivo detection: in vivo</string>
+    <string name="ytlf_dictionaries29">\n vivo testing: non-living body</string>
+    <string name="ytlf_dictionaries3">success</string>
+    <string name="ytlf_dictionaries30">\n Wallpapers</string>
+    <string name="ytlf_dictionaries31">\n black and white</string>
+    <string name="ytlf_dictionaries32">RGB camera (CAMERA_BACK) identify the direction of flipping</string>
+    <string name="ytlf_dictionaries33">IR camera (CAMERA_FRONT) identify the direction of flipping</string>
+    <string name="ytlf_dictionaries34">Face frame around the mirror</string>
+    <string name="ytlf_dictionaries35">Face box does not appear correction</string>
+    <string name="ytlf_dictionaries36">RGB rotation angle camera preview</string>
+    <string name="ytlf_dictionaries37">IR camera preview rotation angle</string>
+    <string name="ytlf_dictionaries38">Select the picture storage</string>
+    <string name="ytlf_dictionaries39">Registered face</string>
+    <string name="ytlf_dictionaries4">failure</string>
+    <string name="ytlf_dictionaries40">Face loaded into memory database</string>
+    <string name="ytlf_dictionaries41">Delete DB database</string>
+    <string name="ytlf_dictionaries42">Empty Face</string>
+    <string name="ytlf_dictionaries43">Network connection error, please try again</string>
+    <string name="ytlf_dictionaries44">The face is already registered</string>
+    <string name="ytlf_dictionaries45">Gender:</string>
+    <string name="ytlf_dictionaries46">Age:</string>
+    <string name="ytlf_dictionaries47">Man</string>
+    <string name="ytlf_dictionaries48">Woman</string>
+    <string name="ytlf_dictionaries7">Face Detection</string>
+    <string name="ytlf_dictionaries8">Wear masks</string>
+    <string name="ytlf_dictionaries9">Not wear a mask</string>
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="AppThemeDayNight" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+    <style name="CustomDialog" parent="Theme.AppCompat.Dialog">
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        
+    </style>
+</resources>

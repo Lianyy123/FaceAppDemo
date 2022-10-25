@@ -1,0 +1,91 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.firefly.arcterndemo" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="19"
+7-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml
+8        android:targetSdkVersion="28" />
+8-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml
+9
+10    <uses-permission android:name="android.permission.CAMERA" />
+10-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:6:5-65
+10-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:6:22-62
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:7:5-81
+11-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:7:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:8:5-80
+12-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:8:22-77
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:9:5-67
+13-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:9:22-64
+14
+15    <application
+15-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:11:5-47:19
+16        android:name="com.firefly.faceEngine.App"
+16-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:12:9-50
+17        android:allowBackup="true"
+17-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:13:9-35
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:14:9-43
+19        android:label="@string/app_name"
+19-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:15:9-41
+20        android:networkSecurityConfig="@xml/network_security_config"
+20-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:16:9-69
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:17:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:18:9-35
+23        android:theme="@style/AppTheme" >
+23-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:19:9-40
+24        <meta-data
+24-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:20:9-22:44
+25            android:name="com.google.android.actions"
+25-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:21:13-54
+26            android:resource="@xml/home" />
+26-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:22:13-41
+27
+28        <activity android:name="com.firefly.faceEngine.activity.ArcternMainActivity" >
+28-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:24:9-33:20
+28-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:24:19-85
+29
+30            <!--
+31            <intent-filter>
+32                <action android:name="android.intent.action.MAIN" />
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+35            </intent-filter>
+36            -->
+37        </activity>
+38        <activity
+38-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:34:9-37:34
+39            android:name="com.firefly.faceEngine.activity.FaceDetectActivity"
+39-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:35:13-78
+40            android:theme="@style/AppThemeDayNight"
+40-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:36:13-52
+41            tools:node="merge" />
+41-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:37:13-31
+42        <activity
+42-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:38:9-41:34
+43            android:name="com.firefly.faceEngine.other.SingleCameraFaceDetectActivity"
+43-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:39:13-87
+44            android:theme="@style/AppThemeDayNight"
+44-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:40:13-52
+45            tools:node="merge" />
+45-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:41:13-31
+46        <activity
+46-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:42:9-45:56
+47            android:name="com.firefly.faceEngine.activity.DBActivity"
+47-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:43:13-70
+48            android:screenOrientation="portrait"
+48-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:44:13-49
+49            tools:ignore="LockedOrientationActivity" />
+49-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:45:13-53
+50        <activity android:name="com.firefly.faceEngine.other.SettingActivity" />
+50-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:46:9-81
+50-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\src\main\AndroidManifest.xml:46:19-78
+51    </application>
+52
+53</manifest>

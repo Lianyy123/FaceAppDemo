@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.firefly.faceApi.V2.app-mergeDebugResources-12:/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\113298bdd1086868de00cc843b0f442f\\transformed\\jetified-ImagePicker-1.0.6\\res\\values-v19\\values-v19.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "329"
+                    }
+                }
+            ]
+        }
+    ]
+}

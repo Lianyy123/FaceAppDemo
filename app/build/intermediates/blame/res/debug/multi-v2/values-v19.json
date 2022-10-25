@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\zheng'jia'xi\\Desktop\\FaceApiDemoExternal-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zheng'jia'xi\\.gradle\\caches\\transforms-2\\files-2.1\\dae0062fbf1dd5b99373f2c14726b9ea\\res\\values-v19\\values-v19.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "329"
+                    }
+                }
+            ]
+        }
+    ]
+}

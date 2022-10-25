@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:4:5-41
+		INJECTED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:8:5-34:19
+	android:supportsRtl
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:14:9-40
+activity#com.firefly.fireflyapidemo.MainActivity
+ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:15:19-47
+activity#com.firefly.fireflyapidemo.QrcodeActivity
+ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:23:9-51
+	android:name
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:23:19-49
+activity#com.firefly.fireflyapidemo.RadarActivity
+ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:24:9-50
+	android:name
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:24:19-48
+activity#com.firefly.fireflyapidemo.NFCActivity
+ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:25:9-48
+	android:name
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:25:19-46
+activity#com.firefly.fireflyapidemo.LevelSignalActivity
+ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:26:9-56
+	android:name
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:26:19-54
+activity#com.firefly.fireflyapidemo.RelayActivity
+ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:27:19-48
+activity#com.firefly.fireflyapidemo.WiegandOutputActivity
+ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:28:9-58
+	android:name
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:28:19-56
+activity#com.firefly.fireflyapidemo.Rs485AndRs232Activity
+ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:29:9-58
+	android:name
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:29:19-56
+activity#com.firefly.fireflyapidemo.WiegandInputActivity
+ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:30:9-57
+	android:name
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:30:19-55
+activity#com.firefly.fireflyapidemo.TempatureActivity
+ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:31:9-54
+	android:name
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:31:19-52
+activity#com.firefly.fireflyapidemo.IDCardActivity
+ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:32:9-51
+	android:name
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:32:19-49
+activity#com.firefly.fireflyapidemo.LedControlActivity
+ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:33:9-55
+	android:name
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml:33:19-53
+uses-sdk
+INJECTED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\src\main\AndroidManifest.xml

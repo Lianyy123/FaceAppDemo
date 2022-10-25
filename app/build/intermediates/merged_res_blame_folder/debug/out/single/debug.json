@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_menu_weichat_icon_selector.xml.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/menu_weichat_icon_selector.xml"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_f14.jpg.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/f14.jpg"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_nothing.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/nothing.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_weichat.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/weichat.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_p2.jpg.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/p2.jpg"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_edit.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/edit.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_f4.jpg.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/f4.jpg"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_setting_yes.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/setting_yes.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_setting_no.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/setting_no.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_menu_pho_icon_selector.xml.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/menu_pho_icon_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\layout_app_activity_main.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\layout\\app_activity_main.xml"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_button.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/button.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\layout_fragment_pho.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\layout\\fragment_pho.xml"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_img_1.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/img_1.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_moreth.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/moreth.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_delete.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/delete.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_p1.jpg.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/p1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\layout_fragment_wei_chat.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\layout\\fragment_wei_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\layout_activity_add_data.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\layout\\activity_add_data.xml"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_edit_btn.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/edit_btn.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_home_selected.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/home_selected.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_users_selector.xml.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/users_selector.xml"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_f5.jpg.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/f5.jpg"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_home.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/home.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_settings_selector.xml.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/settings_selector.xml"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_shop.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/shop.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\layout_item_chat_list.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\layout\\item_chat_list.xml"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_f2.jpg.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/f2.jpg"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_img_2.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/img_2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_p7.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/p7.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\layout_dialog.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_border.xml.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/border.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\layout_fragment_news.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_f13.jpg.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/f13.jpg"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_weichat1.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/weichat1.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_home_selector.xml.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/home_selector.xml"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_btn_shape.xml.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/btn_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_p3.jpg.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/p3.jpg"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_home_no.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/home_no.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_user_yes.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/user_yes.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_edittext_style_focused.xml.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/edittext_style_focused.xml"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_user_no.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/user_no.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_f10.jpg.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/f10.jpg"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_f7.jpg.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/f7.jpg"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_menu_news_icon_selector.xml.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/menu_news_icon_selector.xml"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_add.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/add.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_baidu.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/baidu.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_setting_selected.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/setting_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_more.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/more.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_edittext_style_normal.xml.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/edittext_style_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_bord.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/bord.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_setting.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/setting.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_sear.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/sear.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_p6.jpg.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/p6.jpg"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_img.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/img.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_f11.jpg.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/f11.jpg"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_dialog_bg.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/dialog_bg.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_back.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/back.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_jj.xml.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/jj.xml"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_p5.jpg.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/p5.jpg"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_delete_btn.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/delete_btn.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_avator.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/avator.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_f1.jpg.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/f1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_baidu1.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/baidu1.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_f8.jpg.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/f8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\layout_app_menu_list_item.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\layout\\app_menu_list_item.xml"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_news.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/news.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_han.jpg.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/han.jpg"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_menu_button_icon_selector.xml.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/menu_button_icon_selector.xml"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_f12.jpg.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/f12.jpg"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_p4.jpg.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/p4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_f9.jpg.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/f9.jpg"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_edittext_sytle.xml.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/edittext_sytle.xml"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_p8.jpg.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/p8.jpg"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_f6.jpg.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/f6.jpg"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_user_selected.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/user_selected.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_home_yes.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/home_yes.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_pho.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/pho.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_news1.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/news1.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_button_yes.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/button_yes.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_button_no.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/button_no.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable_my_border.xml.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable/my_border.xml"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_f3.jpg.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/f3.jpg"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_user.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/user.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.firefly.faceApi.V2.app-merged_res-14:/drawable-v24_pho1.png.flat",
+        "source": "com.firefly.faceApi.V2.app-main-16:/drawable-v24/pho1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-merged_res-14:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.4\\com.firefly.faceApi.V2.app-main-16:\\layout\\activity_main.xml"
+    }
+]

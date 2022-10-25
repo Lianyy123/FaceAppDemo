@@ -1,0 +1,224 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.firefly.faceApi.V2"
+4    android:versionCode="2"
+5    android:versionName="2.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="25"
+8-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:6:5-65
+11-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:6:22-62
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:7:5-81
+12-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:8:5-80
+13-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:8:22-77
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:9:5-67
+14-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:9:22-64
+15    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+15-->[:arctern-release:] C:\Users\HP\.gradle\caches\transforms-3\e4095e169ccd65e0608bef2e6ffe1f60\transformed\jetified-arctern-release\AndroidManifest.xml:11:5-75
+15-->[:arctern-release:] C:\Users\HP\.gradle\caches\transforms-3\e4095e169ccd65e0608bef2e6ffe1f60\transformed\jetified-arctern-release\AndroidManifest.xml:11:22-72
+16
+17    <application
+17-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:11:5-28:19
+18        android:name="com.firefly.faceEngine.App"
+18-->[:faceEngineYtlf] C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-50
+19        android:allowBackup="true"
+19-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:13:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\b07b9c640df71a720e9f764505945164\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:extractNativeLibs="false"
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:14:9-43
+24        android:label="@string/app_main_name"
+24-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:15:9-46
+25        android:largeHeap="true"
+25-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:12:9-33
+26        android:networkSecurityConfig="@xml/network_security_config"
+26-->[:faceEngineYtlf] C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-69
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:16:9-54
+28        android:supportsRtl="true"
+28-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:17:9-35
+29        android:testOnly="true"
+30        android:theme="@style/AppTheme" >
+30-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:18:9-40
+31        <activity
+31-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:20:9-27:20
+32            android:name="com.firefly.faceApi.V2.AppMainActivity"
+32-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:20:19-72
+33            android:exported="true" >
+33-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:21:13-36
+34            <intent-filter>
+34-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:22:13-26:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:23:17-69
+35-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:23:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:25:17-77
+37-->C:\Users\HP\Desktop\FaceApiDemoExternal-master\app\src\main\AndroidManifest.xml:25:27-74
+38            </intent-filter>
+39        </activity>
+40
+41        <meta-data
+41-->[:faceEngineYtlf] C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:9-26:44
+42            android:name="com.google.android.actions"
+42-->[:faceEngineYtlf] C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-54
+43            android:resource="@xml/home" />
+43-->[:faceEngineYtlf] C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-41
+44
+45        <activity android:name="com.firefly.faceEngine.activity.ArcternMainActivity" >
+45-->[:faceEngineYtlf] C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-37:20
+45-->[:faceEngineYtlf] C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:19-85
+46
+47            <!--
+48            <intent-filter>
+49                <action android:name="android.intent.action.MAIN" />
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+52            </intent-filter>
+53            -->
+54        </activity>
+55        <activity
+55-->[:faceEngineYtlf] C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:9-41:34
+56            android:name="com.firefly.faceEngine.activity.FaceDetectActivity"
+56-->[:faceEngineYtlf] C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\build\intermediates\merged_manifest\debug\AndroidManifest.xml:39:13-78
+57            android:theme="@style/AppThemeDayNight" />
+57-->[:faceEngineYtlf] C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:13-52
+58        <activity
+58-->[:faceEngineYtlf] C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:9-45:34
+59            android:name="com.firefly.faceEngine.other.SingleCameraFaceDetectActivity"
+59-->[:faceEngineYtlf] C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\build\intermediates\merged_manifest\debug\AndroidManifest.xml:43:13-87
+60            android:theme="@style/AppThemeDayNight" />
+60-->[:faceEngineYtlf] C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\build\intermediates\merged_manifest\debug\AndroidManifest.xml:44:13-52
+61        <activity
+61-->[:faceEngineYtlf] C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\build\intermediates\merged_manifest\debug\AndroidManifest.xml:46:9-49:56
+62            android:name="com.firefly.faceEngine.activity.DBActivity"
+62-->[:faceEngineYtlf] C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\build\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-70
+63            android:screenOrientation="portrait" />
+63-->[:faceEngineYtlf] C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\build\intermediates\merged_manifest\debug\AndroidManifest.xml:48:13-49
+64        <activity android:name="com.firefly.faceEngine.other.SettingActivity" />
+64-->[:faceEngineYtlf] C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\build\intermediates\merged_manifest\debug\AndroidManifest.xml:50:9-81
+64-->[:faceEngineYtlf] C:\Users\HP\Desktop\FaceApiDemoExternal-master\faceEngineYtlf\build\intermediates\merged_manifest\debug\AndroidManifest.xml:50:19-78
+65        <activity android:name="com.firefly.fireflyapidemo.MainActivity" >
+65-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-29:20
+65-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:19-73
+66
+67            <!--
+68            <intent-filter>
+69                <action android:name="android.intent.action.MAIN" />
+70
+71                <category android:name="android.intent.category.LAUNCHER" />
+72            </intent-filter>
+73            -->
+74        </activity>
+75        <activity android:name="com.firefly.fireflyapidemo.QrcodeActivity" />
+75-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:9-78
+75-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:19-75
+76        <activity android:name="com.firefly.fireflyapidemo.RadarActivity" />
+76-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:9-77
+76-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:19-74
+77        <activity android:name="com.firefly.fireflyapidemo.NFCActivity" />
+77-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:9-75
+77-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:19-72
+78        <activity android:name="com.firefly.fireflyapidemo.LevelSignalActivity" />
+78-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:9-83
+78-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:19-80
+79        <activity android:name="com.firefly.fireflyapidemo.RelayActivity" />
+79-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:9-77
+79-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:19-74
+80        <activity android:name="com.firefly.fireflyapidemo.WiegandOutputActivity" />
+80-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:9-85
+80-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:19-82
+81        <activity android:name="com.firefly.fireflyapidemo.Rs485AndRs232Activity" />
+81-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:9-85
+81-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:19-82
+82        <activity android:name="com.firefly.fireflyapidemo.WiegandInputActivity" />
+82-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:9-84
+82-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:19-81
+83        <activity android:name="com.firefly.fireflyapidemo.TempatureActivity" />
+83-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:9-81
+83-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:19-78
+84        <activity android:name="com.firefly.fireflyapidemo.IDCardActivity" />
+84-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:39:9-78
+84-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:39:19-75
+85        <activity android:name="com.firefly.fireflyapidemo.LedControlActivity" />
+85-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:9-82
+85-->[:fireflyApi] C:\Users\HP\Desktop\FaceApiDemoExternal-master\fireflyApi\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:19-79
+86        <activity
+86-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:17:9-21:55
+87            android:name="com.lzy.imagepicker.ui.FreeCropActivity"
+87-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:18:13-67
+88            android:configChanges="orientation|screenSize"
+88-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:19:13-59
+89            android:hardwareAccelerated="false"
+89-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:20:13-48
+90            android:theme="@style/ImagePickerTheme" />
+90-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:21:13-52
+91        <activity android:name="com.lzy.imagepicker.ui.ImageBaseActivity" />
+91-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:22:9-77
+91-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:22:19-74
+92        <activity
+92-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:23:9-26:55
+93            android:name="com.lzy.imagepicker.ui.ImageGridActivity"
+93-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:24:13-68
+94            android:configChanges="orientation|screenSize"
+94-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:25:13-59
+95            android:theme="@style/ImagePickerTheme" />
+95-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:26:13-52
+96        <activity
+96-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:27:9-31:55
+97            android:name="com.lzy.imagepicker.ui.ImageCropActivity"
+97-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:28:13-68
+98            android:configChanges="orientation|screenSize"
+98-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:29:13-59
+99            android:hardwareAccelerated="false"
+99-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:30:13-48
+100            android:theme="@style/ImagePickerTheme" />
+100-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:31:13-52
+101        <activity
+101-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:32:9-35:65
+102            android:name="com.lzy.imagepicker.ui.ImagePreviewActivity"
+102-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:33:13-71
+103            android:configChanges="orientation|screenSize"
+103-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:34:13-59
+104            android:theme="@style/ImagePickerThemeFullScreen" />
+104-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:35:13-62
+105        <activity
+105-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:36:9-39:65
+106            android:name="com.lzy.imagepicker.ui.ImagePreviewDelActivity"
+106-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:37:13-74
+107            android:configChanges="orientation|screenSize"
+107-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:38:13-59
+108            android:theme="@style/ImagePickerThemeFullScreen" />
+108-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:39:13-62
+109
+110        <provider
+110-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:41:9-49:20
+111            android:name="com.lzy.imagepicker.ImagePickerProvider"
+111-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:42:13-67
+112            android:authorities="com.firefly.faceApi.V2.provider"
+112-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:43:13-60
+113            android:exported="false"
+113-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:44:13-37
+114            android:grantUriPermissions="true" >
+114-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:45:13-47
+115            <meta-data
+115-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:46:13-48:58
+116                android:name="android.support.FILE_PROVIDER_PATHS"
+116-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:47:17-67
+117                android:resource="@xml/provider_paths" />
+117-->[com.cysion:ImagePicker:1.0.6] C:\Users\HP\.gradle\caches\transforms-3\113298bdd1086868de00cc843b0f442f\transformed\jetified-ImagePicker-1.0.6\AndroidManifest.xml:48:17-55
+118        </provider>
+119    </application>
+120
+121</manifest>

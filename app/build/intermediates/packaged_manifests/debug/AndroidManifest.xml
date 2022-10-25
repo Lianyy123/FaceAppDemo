@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.firefly.faceApi.V2"
+    android:versionCode="2"
+    android:versionName="2.0" >
+
+    <uses-sdk
+        android:minSdkVersion="25"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:name="com.firefly.faceEngine.App"
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_main_name"
+        android:largeHeap="true"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.firefly.faceApi.V2.AppMainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.actions"
+            android:resource="@xml/home" />
+
+        <activity android:name="com.firefly.faceEngine.activity.ArcternMainActivity" >
+
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity
+            android:name="com.firefly.faceEngine.activity.FaceDetectActivity"
+            android:theme="@style/AppThemeDayNight" />
+        <activity
+            android:name="com.firefly.faceEngine.other.SingleCameraFaceDetectActivity"
+            android:theme="@style/AppThemeDayNight" />
+        <activity
+            android:name="com.firefly.faceEngine.activity.DBActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.firefly.faceEngine.other.SettingActivity" />
+        <activity android:name="com.firefly.fireflyapidemo.MainActivity" >
+
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity android:name="com.firefly.fireflyapidemo.QrcodeActivity" />
+        <activity android:name="com.firefly.fireflyapidemo.RadarActivity" />
+        <activity android:name="com.firefly.fireflyapidemo.NFCActivity" />
+        <activity android:name="com.firefly.fireflyapidemo.LevelSignalActivity" />
+        <activity android:name="com.firefly.fireflyapidemo.RelayActivity" />
+        <activity android:name="com.firefly.fireflyapidemo.WiegandOutputActivity" />
+        <activity android:name="com.firefly.fireflyapidemo.Rs485AndRs232Activity" />
+        <activity android:name="com.firefly.fireflyapidemo.WiegandInputActivity" />
+        <activity android:name="com.firefly.fireflyapidemo.TempatureActivity" />
+        <activity android:name="com.firefly.fireflyapidemo.IDCardActivity" />
+        <activity android:name="com.firefly.fireflyapidemo.LedControlActivity" />
+        <activity
+            android:name="com.lzy.imagepicker.ui.FreeCropActivity"
+            android:configChanges="orientation|screenSize"
+            android:hardwareAccelerated="false"
+            android:theme="@style/ImagePickerTheme" />
+        <activity android:name="com.lzy.imagepicker.ui.ImageBaseActivity" />
+        <activity
+            android:name="com.lzy.imagepicker.ui.ImageGridActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/ImagePickerTheme" />
+        <activity
+            android:name="com.lzy.imagepicker.ui.ImageCropActivity"
+            android:configChanges="orientation|screenSize"
+            android:hardwareAccelerated="false"
+            android:theme="@style/ImagePickerTheme" />
+        <activity
+            android:name="com.lzy.imagepicker.ui.ImagePreviewActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/ImagePickerThemeFullScreen" />
+        <activity
+            android:name="com.lzy.imagepicker.ui.ImagePreviewDelActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/ImagePickerThemeFullScreen" />
+
+        <provider
+            android:name="com.lzy.imagepicker.ImagePickerProvider"
+            android:authorities="com.firefly.faceApi.V2.provider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+    </application>
+
+</manifest>
